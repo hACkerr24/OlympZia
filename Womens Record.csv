@@ -1,0 +1,30 @@
+ID,Event,Record,Athlete(s),Nation,Games,Date
+1,100 metres,10.61,Elaine Thompson Herah,Jamaica (JAM),2020 Tokyo,"July 31, 2021"
+2,200 metres,21.34,Florence Griffith Joyner,United States (USA),1988 Seoul,"September 29, 1988"
+3,400 metres,48.25,Marie-JosÃ© PÃ©rec,France (FRA),1996 Atlanta,"July 29, 1996"
+4,800 metres,01:53.4,Nadezhda Olizarenko,Soviet Union (URS),1980 Moscow,"July 27, 1980"
+5,"1,500 metres",03:53.1,Faith Kipyegon,Kenya (KEN),2020 Tokyo,"August 6, 2021"
+6,"5,000 metres",14:26.2,Vivian Cheruiyot,Kenya (KEN),2016 Rio de Janeiro,"August 19, 2016"
+7,"10,000 metres",29:17.4,Almaz Ayana,Ethiopia (ETH),2016 Rio de Janeiro,"August 12, 2016"
+8,Marathon,02:23:07,Tiki Gelana,Ethiopia (ETH),2012 London,"August 5, 2012"
+9,100 metres hurdles,12.26,Jasmine Camacho-Quinn,Puerto Rico (PUR),2020 Tokyo,"August 1, 2021"
+10,400 metres hurdles,51.46,Sydney McLaughlin,United States (USA),2020 Tokyo,"August 4, 2021"
+11,"3,000 m steeplechase",08:58.8,Gulnara Galkina-Samitova,Russia (RUS),2008 Beijing,"August 17, 2008"
+12,4Ã—100 m relay,40.82,"Tianna Madison
+ Allyson Felix
+ Bianca Knight
+ Carmelita Jeter",United States (USA),2012 London,"August 10, 2012"
+13,4Ã—400 m relay,03:15.2,"Tatyana Ledovskaya
+ Olga Nazarova
+ Mariya Pinigina
+ Olga Bryzgina",Soviet Union (URS),1988 Seoul,"October 1, 1988"
+14,20 km walk,01:25:16,Qieyang Shijie,China (CHN),2012 London,"August 11, 2012"
+15,High jump,2.06 m,Yelena Slesarenko,Russia (RUS),2004 Athens,"August 28, 2004"
+16,Long jump,7.40 m,Jackie Joyner-Kersee,United States (USA),1988 Seoul,"September 29, 1988"
+17,Pole vault,5.05 m,Yelena Isinbayeva,Russia (RUS),2008 Beijing,"August 18, 2008"
+18,Triple jump,15.67 m,Yulimar Rojas,Venezuela (VEN),2020 Tokyo,"August 1, 2021"
+19,Shot put,22.41 m,Ilona Slupianek,East Germany (GDR),1980 Moscow,"July 24, 1980"
+20,Discus throw,72.30 m,Martina Hellmann,East Germany (GDR),1988 Seoul,"September 29, 1988"
+21,Hammer throw,82.29 m,Anita WÅ‚odarczyk,Poland (POL),2016 Rio de Janeiro,"August 15, 2016"
+22,Javelin throw,71.53 m,Osleidys MenÃ©ndez,Cuba (CUB),2004 Athens,"August 27, 2004"
+23,Heptathlon,7291 pts,Jackie Joyner-Kersee,United States (USA),1988 Seoul,"September 24, 1988"
